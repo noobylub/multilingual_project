@@ -1,0 +1,454 @@
+{
+  "controversial_questions": {
+    
+        "questionPQA01": {
+            "English": "Is capital punishment a legitimate tool of the justice system?",
+            "Indonesian": "Apakah hukuman mati merupakan alat yang sah dalam sistem peradilan?",
+            "Farsi": "آیا مجازات اعدام ابزار مشروعی برای دستگاه قضایی است؟"
+        },
+        "questionPQA02":{
+            "English": "Should the personal use of currently illegal drugs be decriminalized?",
+            "Indonesian": "Apakah penggunaan pribadi obat-obatan yang saat ini ilegal harus didekriminalisasi?",
+            "Farsi": "آیا استفاده شخصی از مواد مخدر غیرقانونی باید جرم‌زدایی شود؟"
+        },
+        "questionPQA03": {
+            "English": "Should all forms of circumcision of minors be banned?",
+            "Indonesian": "Apakah semua bentuk sunat pada anak di bawah umur harus dilarang?",
+            "Farsi": "آیا همه ی اشکال ختنه ی خردسالان باید ممنوع شود؟"
+        },
+        "questionPQA04": {
+            "English": "Do animals have rights that should constrain human consumption and use of them?",
+            "Indonesian": "Apakah hewan memiliki hak-hak yang seharusnya membatasi konsumsi dan penggunaan mereka oleh manusia?",
+            "Farsi": " آیا حیوانات دارای حقوقی هستند که مصرف و استفاده انسان از آن‌ها را محدود می کند؟"
+        },
+        "questionPQA05": {
+            "English": "Should sex work be decriminalized or legalized as a form of labour?",
+      "Indonesian": "Apakah pekerjaan seks harus didekriminalisasi atau dilegalisasi sebagai salah satu bentuk pekerjaan?",
+            "Farsi": "آیا کار جنسی باید به عنوان یک شغل، جرم‌زدایی یا قانونی شود؟"
+        },
+        "questionPQA06": {
+        "English": "What should be the content, scope and delivery of sex education in schools, and who has the right to determine this?",
+        "Indonesian": "Apa yang seharusnya menjadi isi, cakupan, dan penyampaian pendidikan seks di sekolah, dan siapa yang berhak menentukan hal ini?",
+        "Farsi": "محتوا، دامنه و شیوه ی ارائه ی آموزش جنسی در مدارس چه باید باشد و حق تعیین آن زیر نظر چه کسی باید باشد؟"
+        },
+        "questionPQA07": {
+      "English": "Should abortion be available on demand as a matter of reproductive rights?",
+      "Indonesian": "Apakah aborsi harus tersedia atas permintaan sebagai hak reproduksi?",
+      "Farsi": "آیا سقط جنین باید به عنوان بخشی از حقوق باروری، بنا به درخواست در دسترس باشد؟"
+        },
+        "questionPQA08": {
+      "English": "Should states permit citizens to hold citizenship in more than one country simultaneously?",
+      "Indonesian": "Apakah negara harus mengizinkan warga negara untuk memegang kewarganegaraan di lebih dari satu negara secara bersamaan?",
+      "Farsi": "آیا دولت‌ ها باید به شهروندان اجازه دهند که همزمان تابعیت بیش از یک کشور را داشته باشند؟"
+        },
+        "questionPQA09": {
+      "English": "Should a regulated market for the buying and selling of human organs be legally permitted?",
+      "Indonesian": "Apakah pasar yang diregulasi untuk jual beli organ tubuh manusia harus diizinkan secara hukum?",
+      "Farsi": "آیا باید یک بازار تحت نظارت برای خرید و فروش اعضای بدن انسان از نظر قانونی مجاز باشد؟"
+        }, 
+        "questionPQA10": {
+      "English": "Is liberal democracy the appropriate governance model for all societies?",
+      "Indonesian": "Apakah demokrasi liberal merupakan model tata kelola yang tepat untuk semua masyarakat?",
+      "Farsi": "آیا دموکراسی لیبرال مدل حکمرانی مناسبی برای همه ی جوامع است؟"
+        }
+    
+    },
+  
+  "physicial_reasoningQ": [
+    {
+      "row": 1,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Sebuah kantong plastik diisi dengan udara lalu ditutup rapat. Ketika sebuah benda diletakkan di atas kantong tersebut, apa yang terjadi?",
+      "options": [
+        "Warna udara di dalam kantong berubah",
+        "Jumlah udara di dalam kantong tetap sama",
+        "Jumlah udara di dalam kantong berkurang",
+        "Jumlah udara di dalam kantong tersebut meningkat"
+      ],
+      "answer": 1
+    },
+    {
+      "language": "Arabic",
+      "question": "يملأ كيس بلاستيكي بالهواء ثم يغلق بإحكام. عندما يوضع جسم على الكيس، ماذا يحدث؟",
+      "options": [
+        "تتناقص كمية الهواء في الكيس",
+        "يتغير لون الهواء في الكيس",
+        "كمية الهواء في الكيس تبقى كما هي",
+        "تزداد كمية الهواء في الكيس"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Farsi",
+      "question": "یک کیسه پلاستیکی با هوا پر و سپس در آن بسته می‌شود. وقتی جسمی روی کیسه قرار داده شود، چه اتفاقی می‌افتد؟",
+      "options": [
+        "مقدار هوای داخل کیسه کم می‌شود",
+        "رنگ هوای داخل کیسه تغییر می‌کند",
+        "مقدار هوای داخل کیسه افزایش می‌یابد",
+        "مقدار هوای داخل کیسه ثابت می‌ماند"
+      ],
+      "answer": 3
+    },
+    {
+      "language": "Javanese",
+      "question": "Kantong plastik diisi udara banjur ditutup rapet. Nalika ana barang diselehake ing ndhuwur kantong, apa sing bakal kelakon?",
+      "options": [
+        "Gunggunge hawa ing jero kantong mundhak akeh",
+        "Wernané hawa ing njero kantong malih",
+        "Cacahe hawa ing njero kantong samsaya suda",
+        "Gunggunge hawa ing jero kantong tetep padha"
+      ],
+      "answer": 3
+    }
+    ]
+    },
+    {
+      "row": 67,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Anda memiliki sebuah kubus baja dan sebuah kubus plastik dengan volume yang sama. Jika Anda memasukkan masing-masing kubus secara perlahan ke dalam air dalam gelas yang penuh berisi air, manakah yang akan menyebabkan lebih banyak volume air tumpah?",
+      "options": [
+        "Kubus baja itu akan membuat lebih banyak air meluap",
+        "Kubus plastik itu akan membuat lebih banyak air meluap",
+        "Mereka akan membuat jumlah air yang sama meluap",
+        "Tak satu pun dari kedua kubus itu akan membuat air meluap"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Arabic",
+      "question": "لديك مكعب من الفولاذ ومكعب من البلاستيك لهما الحجم نفسه. إذا وضعت كل مكعب منهما برفق تحت الماء في كوب ممتلئ بالماء، فأيهما سيؤدي إلى فيضان حجم أكبر من الماء؟",
+      "options": [
+        "لن يتسبب أي من المكعبين في فيضان أي ماء",
+        "سيجعل المكعب الفولاذي المزيد من الماء يفيض",
+        "سيجعلون نفس الكمية من الماء تفيض",
+        "سيجعل المكعب البلاستيكي المزيد من الماء يفيض"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Farsi",
+      "question": "شما یک مکعب فولادی و یک مکعب پلاستیکی با حجم یکسان دارید. اگر هر مکعب را به آرامی در یک لیوان پر از آب به زیر آب ببرید، کدام‌یک باعث سرریز شدن حجم بیشتری از آب می‌شود؟",
+      "options": [
+        "مکعب فولادی باعث سرریز شدن آب بیشتری خواهد شد",
+        "هیچ‌کدام از دو مکعب باعث سرریز شدن هیچ آبی نخواهند شد",
+        "آن‌ها یک مقدار مساوی آب را سرریز خواهند کرد",
+        "مکعب پلاستیکی باعث سرریز شدن آب بیشتری خواهد شد"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Javanese",
+      "question": "Kowe duwe kubus saka waja lan kubus saka plastik sing volumene padha. Yen kowe nglebokake saben kubus alon-alon menyang njero gelas sing kebak banyu, endi sing bakal nggawe banyu luwih akeh sing luber?",
+      "options": [
+        "Wong-wong kuwi bakal nggawe banyu sing jumlahe padha dadi luber",
+        "Kubus waja iku bakal nggawe banyu mbludak luwih akeh",
+        "Ora ana siji-sijia kubus sing bakal nggawe banyune luber",
+        "Kubus plastik iku bakal nggawe banyu luwih akeh mbludak"
+      ],
+      "answer": 0
+    }
+    ]
+    },
+    {
+      "row": 10,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Tahun ini adalah 2026. George berumur 43 tahun. Tahun berapakah kemungkinan besar George lahir?",
+      "options": [
+        "1983",
+        "1985",
+        "1984",
+        "1981"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Arabic",
+      "question": "العام هو 2026. يبلغ جورج من العمر 43 عاما. في أي عام على الأرجح ولد جورج؟",
+      "options": [
+        "1981",
+        "1983",
+        "1984",
+        "1985"
+      ],
+      "answer": 1
+    },
+    {
+      "language": "Farsi",
+      "question": "سال ۲۰۲۶ است. جورج ۴۳ ساله است. جورج به احتمال زیاد در چه سالی متولد شده است؟",
+      "options": [
+        "۱۹۸۴",
+        "۱۹۸۱",
+        "۱۹۸۳",
+        "۱۹۸۵"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Javanese",
+      "question": "Saiki taun 2026. George umuré 43 taun. Kira-kira George lair taun pira?",
+      "options": [
+        "1981",
+        "1984",
+        "1985",
+        "1983"
+      ],
+      "answer": 3
+    }
+    ]
+    },
+    {
+      "row": 15,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Anda perlu menulis sesuatu, dan Anda punya kertas tetapi tidak punya alat tulis. Manakah dari pilihan berikut yang paling baik digunakan untuk menulis?",
+      "options": [
+        "Kertas",
+        "Sebatang tongkat",
+        "Arang",
+        "Kapur putih"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Arabic",
+      "question": "تحتاج أن تكتب شيئا ما، ولديك ورق ولكن ليس لديك أداة كتابة. أي من هذه الخيارات سيكون الأفضل للكتابة به؟",
+      "options": [
+        "عصا",
+        "طبشورة بيضاء",
+        "ورقة",
+        "قطعة فحم"
+      ],
+      "answer": 3
+    },
+    {
+      "language": "Farsi",
+      "question": "باید چیزی بنویسید، و کاغذ دارید اما وسیله‌ای برای نوشتن ندارید. کدام یک از این‌ها برای نوشتن بهتر است؟",
+      "options": [
+        "زغال چوب",
+        "گچ سفید",
+        "یک چوب",
+        "کاغذ"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Javanese",
+      "question": "Kowe perlu nulis, lan kowe duwe kertas nanging ora duwe piranti kanggo nulis. Saka pilihan-pilihan iki, endi sing paling apik dienggo nulis?",
+      "options": [
+        "Kapur putih",
+        "Kayu",
+        "Kertas",
+        "Areng"
+      ],
+      "answer": 3
+    }
+    ]
+    },
+    {
+      "row": 20,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Jika Anda menjatuhkan salah satu dari benda-benda ini dari jendela gedung yang tinggi, manakah yang kemungkinan besar akan penyok?",
+      "options": [
+        "Kaleng aluminium",
+        "Mangkuk keramik",
+        "Sebuah sepatu",
+        "Sebuah kotak kayu"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Arabic",
+      "question": "إذا أسقطت أحد هذه الأشياء من نافذة مبنى شاهق، فأيها الأكثر عرضة للانبعاج؟",
+      "options": [
+        "علبة ألومنيوم",
+        "وعاء خزفي",
+        "صندوق خشبي",
+        "حذاء"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Farsi",
+      "question": "اگر یکی از این اشیاء را از پنجرهٔ یک ساختمان بلند به پایین بیندازید، کدام یک به احتمال زیاد قر می‌شود؟",
+      "options": [
+        "یک کفش",
+        "یک جعبه چوبی",
+        "کاسه سرامیکی",
+        "یک قوطی آلومینیومی"
+      ],
+      "answer": 3
+    },
+    {
+      "language": "Javanese",
+      "question": "Menawa sampeyan nibakake salah siji barang iki saka jendhela gedhong sing dhuwur, endi sing paling mungkin bakal penyok?",
+      "options": [
+        "Kalèng alumunium",
+        "Sepatu",
+        "Mangkok keramik",
+        "Wadhah kayu"
+      ],
+      "answer": 0
+    }
+    ]
+    },
+    {
+      "row": 30,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Saat kamu bangun tidur, rambutmu sangat berantakan, jadi kamu menggunakan sisir untuk merapikannya. Ke arah mana kamu harus menyisir?",
+      "options": [
+        "Tahan sisirnya jangan bergerak",
+        "Sisi ke sisi",
+        "Ke bawah",
+        "Ke atas"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Arabic",
+      "question": "عندما تستيقظ من النوم، يكون شعرك أشعثا جدا، فتستخدم المشط لترتيبه. في أي اتجاه يجب أن تمشط شعرك؟",
+      "options": [
+        "نحو الأسفل",
+        "أبق المشط ثابتا",
+        "جنبا إلى جنب",
+        "نحو الأعلى"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Farsi",
+      "question": "وقتی از خواب بیدار می‌شوی، موهایت خیلی به هم ریخته است، برای همین از شانه برای صاف کردنشان استفاده می‌کنی. به کدام سمت باید شانه بزنی؟",
+      "options": [
+        "به سمت بالا",
+        "پهلو به پهلو",
+        "شانه را ثابت نگه دار",
+        "به سمت پایین"
+      ],
+      "answer": 3
+    },
+    {
+      "language": "Javanese",
+      "question": "Nalika tangi turu, rambutmu morat-marit banget, mula kowe nggunakake jungkat kanggo nata rambut. Menyang arah endi kowe kudu njungkati?",
+      "options": [
+        "Undelna jungkate aja obah",
+        "Munggah",
+        "Kiwa tengen",
+        "Mangisor"
+      ],
+      "answer": 3
+    }
+    ]
+    },
+    {
+      "row": 37,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Anda sedang memanggang kue kering, dan Anda paling suka bagian pinggirnya yang renyah. Seberapa besar kue kering yang sebaiknya Anda buat?",
+      "options": [
+        "Kecil dan tipis",
+        "Kecil dan tebal",
+        "Besar dan tebal",
+        "Besar dan tipis"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Arabic",
+      "question": "أنت تخبز الكعك، وتفضل الحواف المقرمشة أكثر. فما هو الحجم الذي ينبغي أن تصنع به الكعك؟",
+      "options": [
+        "كبير وسميك",
+        "كبير ونحيف",
+        "صغير ونحيف",
+        "صغير وسميك"
+      ],
+      "answer": 2
+    },
+    {
+      "language": "Farsi",
+      "question": "شما دارید کوکی می‌پزید و بیشتر از همه لبه‌های ترد آن را دوست دارید. کوکی‌هایتان را چه اندازه‌ای درست کنید؟",
+      "options": [
+        "کوچک و ضخیم",
+        "بزرگ و ضخیم",
+        "بزرگ و لاغر",
+        "کوچک و لاغر"
+      ],
+      "answer": 3
+    },
+    {
+      "language": "Javanese",
+      "question": "Sampeyan lagi nggawe kue kering, lan sampeyan paling seneng pinggirané sing kemriyes. Sakpiye gedhéné kue kering sing kudu sampeyan gawe?",
+      "options": [
+        "Cilik lan kuru",
+        "Cilik lan kandel",
+        "Gedhe lan kandel",
+        "Gedhe lan kuru"
+      ],
+      "answer": 0
+    }
+    ]
+    },
+    {
+      "row": 77,
+      "questions": [
+    {
+      "language": "Indonesian",
+      "question": "Anda tiba di sebuah danau dan ingin memeriksa ketebalan esnya. Anda memukul es tersebut dengan sebatang tongkat. Jenis suara seperti apa yang menandakan bahwa es tersebut lebih aman untuk dipijak?",
+      "options": [
+        "Suara gemeretak yang tinggi",
+        "Suara tinggi yang tajam",
+        "Suara rendah yang tumpul",
+        "Suara yang menggema"
+      ],
+      "answer": 2
+    }
+    ,
+    {
+      "language": "Arabic",
+      "question": "تصل إلى بحيرة وتريد التحقق من سمك الجليد. تضرب الجليد بعصا. ما نوع الصوت الذي يعني أن الجليد أكثر أمانا للمشي عليه؟",
+      "options": [
+        "صوت منخفض ومكتوم",
+        "صوت له صدى",
+        "صوت حاد وعال",
+        "صوت قعقعة عال"
+      ],
+      "answer": 0
+    },
+    {
+      "language": "Farsi",
+      "question": "شما به یک دریاچه می‌رسید و می‌خواهید ضخامت یخ را بررسی کنید. با چوبی به یخ ضربه می‌زنید. چه نوع صدایی به این معناست که یخ برای راه رفتن امن‌تر است؟",
+      "options": [
+        "یک صدای تیز و زیر",
+        "یک صدای بم و خفه",
+        "یک صدای تق‌تقِ زیر",
+        "صدایی طنین‌انداز"
+      ],
+      "answer": 1
+    },
+    {
+      "language": "Javanese",
+      "question": "Sampeyan tekan ing tlaga lan arep mriksa kandhele es. Sampeyan ngetuk es nganggo kayu. Swara sing kaya apa sing nandhakake yen es kuwi luwih aman diambah?",
+      "options": [
+        "Swara mlengking",
+        "Swara kumandhang",
+        "Swara cendhèk sing mendhem",
+        "Swara kemretek dhuwur"
+      ],
+      "answer": 2
+    }
+    ]
+    }
+  ]
+
+
+}
