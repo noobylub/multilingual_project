@@ -7,6 +7,7 @@ def return_data(language:str):
     return pd.read_csv(f"hf://datasets/mrlbenchmarks/global-piqa-parallel/data/parallel_{language}.tsv", sep="\t")
 
 
+
 # generate in batches
 def batch_output(model,tokenizer, prompts:list[str], max_new_tokens:int=400, batch_size:int=8):
      # Apply left padding so that they are all equal
