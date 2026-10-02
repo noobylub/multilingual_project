@@ -7,7 +7,7 @@ def return_data(language:str):
     return pd.read_csv(f"hf://datasets/mrlbenchmarks/global-piqa-parallel/data/parallel_{language}.tsv", sep="\t")
 
 # generate texts in batches
-def batch_output(model,tokenizer, prompts:list[str], max_new_tokens:int=400, batch_size:int=8):
+def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_tokens:int=400, batch_size:int=8):
      # Apply left padding so that they are all equal
     tokenizer.padding_side = 'left'
 
@@ -17,7 +17,9 @@ def batch_output(model,tokenizer, prompts:list[str], max_new_tokens:int=400, bat
     if tokenizer.chat_template is not None:
         texts = [
             tokenizer.apply_chat_template(
-                [{"role": "user", "content": p}],
+                [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": p}],
                 add_generation_prompt=True,
                 tokenize=False,
             )
