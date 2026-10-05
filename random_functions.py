@@ -13,8 +13,13 @@ def return_dataMGSM(language:str):
 
 
 # generate texts in batches
-def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_tokens:int=400, batch_size:int=8):
-     # Apply left padding so that they are all equal
+def batch_output(model, tokenizer, system_prompt: str, prompts: list[str] | str, max_new_tokens: int = 400, batch_size: int = 8):
+    if isinstance(prompts, str):
+        prompts = [prompts]
+
+    if batch_size < 1:
+        raise ValueError("batch_size must be at least 1")
+
     tokenizer.padding_side = 'left'
 
     if tokenizer.pad_token_id is None:
@@ -39,6 +44,7 @@ def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_
     # batch outputs and generate 
     for i in range(0, len(texts), batch_size):
         batch = texts[i:i+batch_size]
+        print(f"Generating prompts {i + 1}-{i + len(batch)} of {len(texts)}")
         inputs = tokenizer(batch, return_tensors="pt", padding=True, truncation=True,
             add_special_tokens=add_special_tokens
         ).to(model.device)
@@ -49,6 +55,7 @@ def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_
         # and new_tokens contains only the generated tokens beyond the input sequence
         new_tokens = generated[:, inputs.input_ids.shape[1]:]
         outputs.extend(tokenizer.batch_decode(new_tokens, skip_special_tokens=True))
+        print(f"Finished prompts {i + 1}-{i + len(batch)} of {len(texts)}")
 
     return outputs
    

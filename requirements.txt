@@ -56,3 +56,10 @@ truststore==0.10.4
 typer==0.27.2
 typing_extensions==4.16.0
 wcwidth==0.9.1
+torch
+PyGithub
+python-dotenv
+bitsandbytes
+requests
+pyarrow
+accelerate
