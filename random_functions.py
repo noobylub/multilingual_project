@@ -3,8 +3,14 @@ import torch
 
 
 # For loading data from hugging face, we can load multiple languages 
-def return_data(language:str):
+def return_dataPIQA(language:str):
     return pd.read_csv(f"hf://datasets/mrlbenchmarks/global-piqa-parallel/data/parallel_{language}.tsv", sep="\t")
+
+def return_dataMGSM(language:str):
+    # Login using   e.g. `huggingface-cli login` to access this dataset
+    df = pd.read_parquet(f"hf://datasets/CohereLabs/global-mgsm/{language}/test.parquet")
+    return df
+
 
 # generate texts in batches
 def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_tokens:int=400, batch_size:int=8):
@@ -37,7 +43,7 @@ def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_
             add_special_tokens=add_special_tokens
         ).to(model.device)
         with torch.no_grad():
-            generated = model.generate(**inputs, max_new_tokens=max_new_tokens,
+            generated = model.generate(**inputs,  max_new_tokens=max_new_tokens,
                                        pad_token_id=tokenizer.pad_token_id)
         # input_ids.shape[1] has the max, because we pad it 
         # and new_tokens contains only the generated tokens beyond the input sequence
