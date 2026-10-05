@@ -62,32 +62,32 @@
       "language": "Indonesian",
       "question": "Sebuah kantong plastik diisi dengan udara lalu ditutup rapat. Ketika sebuah benda diletakkan di atas kantong tersebut, apa yang terjadi?",
       "options": [
-        "Warna udara di dalam kantong berubah",
-        "Jumlah udara di dalam kantong tetap sama",
-        "Jumlah udara di dalam kantong berkurang",
-        "Jumlah udara di dalam kantong tersebut meningkat"
+        "1. Warna udara di dalam kantong berubah",
+        "2. Jumlah udara di dalam kantong tetap sama",
+        "3. Jumlah udara di dalam kantong berkurang",
+        "4. Jumlah udara di dalam kantong tersebut meningkat"
       ],
-      "answer": 1
+      "answer": 2
     },
     {
       "language": "Arabic",
       "question": "يملأ كيس بلاستيكي بالهواء ثم يغلق بإحكام. عندما يوضع جسم على الكيس، ماذا يحدث؟",
       "options": [
-        "تتناقص كمية الهواء في الكيس",
-        "يتغير لون الهواء في الكيس",
-        "كمية الهواء في الكيس تبقى كما هي",
-        "تزداد كمية الهواء في الكيس"
+        "1. تتناقص كمية الهواء في الكيس",
+        "2. يتغير لون الهواء في الكيس",
+        "3. كمية الهواء في الكيس تبقى كما هي",
+        "4. تزداد كمية الهواء في الكيس"
       ],
-      "answer": 2
+      "answer": 3
     },
     {
       "language": "Farsi",
       "question": "یک کیسه پلاستیکی با هوا پر و سپس در آن بسته می‌شود. وقتی جسمی روی کیسه قرار داده شود، چه اتفاقی می‌افتد؟",
       "options": [
-        "مقدار هوای داخل کیسه کم می‌شود",
-        "رنگ هوای داخل کیسه تغییر می‌کند",
-        "مقدار هوای داخل کیسه افزایش می‌یابد",
-        "مقدار هوای داخل کیسه ثابت می‌ماند"
+        "1. مقدار هوای داخل کیسه کم می‌شود",
+        "2. رنگ هوای داخل کیسه تغییر می‌کند",
+        "3. مقدار هوای داخل کیسه افزایش می‌یابد",
+        "4. مقدار هوای داخل کیسه ثابت می‌ماند"
       ],
       "answer": 3
     },
@@ -95,10 +95,10 @@
       "language": "Javanese",
       "question": "Kantong plastik diisi udara banjur ditutup rapet. Nalika ana barang diselehake ing ndhuwur kantong, apa sing bakal kelakon?",
       "options": [
-        "Gunggunge hawa ing jero kantong mundhak akeh",
-        "Wernané hawa ing njero kantong malih",
-        "Cacahe hawa ing njero kantong samsaya suda",
-        "Gunggunge hawa ing jero kantong tetep padha"
+        "1. Gunggunge hawa ing jero kantong mundhak akeh",
+        "2. Wernané hawa ing njero kantong malih",
+        "3. Cacahe hawa ing njero kantong samsaya suda",
+        "4. Gunggunge hawa ing jero kantong tetep padha"
       ],
       "answer": 3
     }
@@ -111,10 +111,10 @@
       "language": "Indonesian",
       "question": "Anda memiliki sebuah kubus baja dan sebuah kubus plastik dengan volume yang sama. Jika Anda memasukkan masing-masing kubus secara perlahan ke dalam air dalam gelas yang penuh berisi air, manakah yang akan menyebabkan lebih banyak volume air tumpah?",
       "options": [
-        "Kubus baja itu akan membuat lebih banyak air meluap",
-        "Kubus plastik itu akan membuat lebih banyak air meluap",
-        "Mereka akan membuat jumlah air yang sama meluap",
-        "Tak satu pun dari kedua kubus itu akan membuat air meluap"
+        "1. Kubus baja itu akan membuat lebih banyak air meluap",
+        "2. Kubus plastik itu akan membuat lebih banyak air meluap",
+        "3. Mereka akan membuat jumlah air yang sama meluap",
+        "4. Tak satu pun dari kedua kubus itu akan membuat air meluap"
       ],
       "answer": 2
     },
@@ -122,10 +122,10 @@
       "language": "Arabic",
       "question": "لديك مكعب من الفولاذ ومكعب من البلاستيك لهما الحجم نفسه. إذا وضعت كل مكعب منهما برفق تحت الماء في كوب ممتلئ بالماء، فأيهما سيؤدي إلى فيضان حجم أكبر من الماء؟",
       "options": [
-        "لن يتسبب أي من المكعبين في فيضان أي ماء",
-        "سيجعل المكعب الفولاذي المزيد من الماء يفيض",
-        "سيجعلون نفس الكمية من الماء تفيض",
-        "سيجعل المكعب البلاستيكي المزيد من الماء يفيض"
+        "1. لن يتسبب أي من المكعبين في فيضان أي ماء",
+        "2. سيجعل المكعب الفولاذي المزيد من الماء يفيض",
+        "3. سيجعلون نفس الكمية من الماء تفيض",
+        "4. سيجعل المكعب البلاستيكي المزيد من الماء يفيض"
       ],
       "answer": 2
     },
@@ -133,10 +133,10 @@
       "language": "Farsi",
       "question": "شما یک مکعب فولادی و یک مکعب پلاستیکی با حجم یکسان دارید. اگر هر مکعب را به آرامی در یک لیوان پر از آب به زیر آب ببرید، کدام‌یک باعث سرریز شدن حجم بیشتری از آب می‌شود؟",
       "options": [
-        "مکعب فولادی باعث سرریز شدن آب بیشتری خواهد شد",
-        "هیچ‌کدام از دو مکعب باعث سرریز شدن هیچ آبی نخواهند شد",
-        "آن‌ها یک مقدار مساوی آب را سرریز خواهند کرد",
-        "مکعب پلاستیکی باعث سرریز شدن آب بیشتری خواهد شد"
+        "1. مکعب فولادی باعث سرریز شدن آب بیشتری خواهد شد",
+        "2. هیچ‌کدام از دو مکعب باعث سرریز شدن هیچ آبی نخواهند شد",
+        "3. آن‌ها یک مقدار مساوی آب را سرریز خواهند کرد",
+        "4. مکعب پلاستیکی باعث سرریز شدن آب بیشتری خواهد شد"
       ],
       "answer": 2
     },
@@ -144,10 +144,10 @@
       "language": "Javanese",
       "question": "Kowe duwe kubus saka waja lan kubus saka plastik sing volumene padha. Yen kowe nglebokake saben kubus alon-alon menyang njero gelas sing kebak banyu, endi sing bakal nggawe banyu luwih akeh sing luber?",
       "options": [
-        "Wong-wong kuwi bakal nggawe banyu sing jumlahe padha dadi luber",
-        "Kubus waja iku bakal nggawe banyu mbludak luwih akeh",
-        "Ora ana siji-sijia kubus sing bakal nggawe banyune luber",
-        "Kubus plastik iku bakal nggawe banyu luwih akeh mbludak"
+        "1. Wong-wong kuwi bakal nggawe banyu sing jumlahe padha dadi luber",
+        "2. Kubus waja iku bakal nggawe banyu mbludak luwih akeh",
+        "3. Ora ana siji-sijia kubus sing bakal nggawe banyune luber",
+        "4. Kubus plastik iku bakal nggawe banyu luwih akeh mbludak"
       ],
       "answer": 0
     }
@@ -160,10 +160,10 @@
       "language": "Indonesian",
       "question": "Tahun ini adalah 2026. George berumur 43 tahun. Tahun berapakah kemungkinan besar George lahir?",
       "options": [
-        "1983",
-        "1985",
-        "1984",
-        "1981"
+        "1. 1983",
+        "2. 1985",
+        "3. 1984",
+        "4. 1981"
       ],
       "answer": 0
     },
@@ -171,10 +171,10 @@
       "language": "Arabic",
       "question": "العام هو 2026. يبلغ جورج من العمر 43 عاما. في أي عام على الأرجح ولد جورج؟",
       "options": [
-        "1981",
-        "1983",
-        "1984",
-        "1985"
+        "1. 1981",
+        "2. 1983",
+        "3. 1984",
+        "4. 1985"
       ],
       "answer": 1
     },
@@ -182,10 +182,10 @@
       "language": "Farsi",
       "question": "سال ۲۰۲۶ است. جورج ۴۳ ساله است. جورج به احتمال زیاد در چه سالی متولد شده است؟",
       "options": [
-        "۱۹۸۴",
-        "۱۹۸۱",
-        "۱۹۸۳",
-        "۱۹۸۵"
+        "1. ۱۹۸۴",
+        "2. ۱۹۸۱",
+        "3. ۱۹۸۳",
+        "4. ۱۹۸۵"
       ],
       "answer": 2
     },
@@ -193,10 +193,10 @@
       "language": "Javanese",
       "question": "Saiki taun 2026. George umuré 43 taun. Kira-kira George lair taun pira?",
       "options": [
-        "1981",
-        "1984",
-        "1985",
-        "1983"
+        "1. 1981",
+        "2. 1984",
+        "3. 1985",
+        "4. 1983"
       ],
       "answer": 3
     }
@@ -209,10 +209,10 @@
       "language": "Indonesian",
       "question": "Anda perlu menulis sesuatu, dan Anda punya kertas tetapi tidak punya alat tulis. Manakah dari pilihan berikut yang paling baik digunakan untuk menulis?",
       "options": [
-        "Kertas",
-        "Sebatang tongkat",
-        "Arang",
-        "Kapur putih"
+        "1. Kertas",
+        "2. Sebatang tongkat",
+        "3. Arang",
+        "4. Kapur putih"
       ],
       "answer": 2
     },
@@ -220,10 +220,10 @@
       "language": "Arabic",
       "question": "تحتاج أن تكتب شيئا ما، ولديك ورق ولكن ليس لديك أداة كتابة. أي من هذه الخيارات سيكون الأفضل للكتابة به؟",
       "options": [
-        "عصا",
-        "طبشورة بيضاء",
-        "ورقة",
-        "قطعة فحم"
+        "1. عصا",
+        "2. طبشورة بيضاء",
+        "3. ورقة",
+        "4. قطعة فحم"
       ],
       "answer": 3
     },
@@ -231,10 +231,10 @@
       "language": "Farsi",
       "question": "باید چیزی بنویسید، و کاغذ دارید اما وسیله‌ای برای نوشتن ندارید. کدام یک از این‌ها برای نوشتن بهتر است؟",
       "options": [
-        "زغال چوب",
-        "گچ سفید",
-        "یک چوب",
-        "کاغذ"
+        "1. زغال چوب",
+        "2. گچ سفید",
+        "3. یک چوب",
+        "4. کاغذ"
       ],
       "answer": 0
     },
@@ -242,10 +242,10 @@
       "language": "Javanese",
       "question": "Kowe perlu nulis, lan kowe duwe kertas nanging ora duwe piranti kanggo nulis. Saka pilihan-pilihan iki, endi sing paling apik dienggo nulis?",
       "options": [
-        "Kapur putih",
-        "Kayu",
-        "Kertas",
-        "Areng"
+        "1. Kapur putih",
+        "2. Kayu",
+        "3. Kertas",
+        "4. Areng"
       ],
       "answer": 3
     }
@@ -258,10 +258,10 @@
       "language": "Indonesian",
       "question": "Jika Anda menjatuhkan salah satu dari benda-benda ini dari jendela gedung yang tinggi, manakah yang kemungkinan besar akan penyok?",
       "options": [
-        "Kaleng aluminium",
-        "Mangkuk keramik",
-        "Sebuah sepatu",
-        "Sebuah kotak kayu"
+        "1. Kaleng aluminium",
+        "2. Mangkuk keramik",
+        "3. Sebuah sepatu",
+        "4. Sebuah kotak kayu"
       ],
       "answer": 0
     },
@@ -269,10 +269,10 @@
       "language": "Arabic",
       "question": "إذا أسقطت أحد هذه الأشياء من نافذة مبنى شاهق، فأيها الأكثر عرضة للانبعاج؟",
       "options": [
-        "علبة ألومنيوم",
-        "وعاء خزفي",
-        "صندوق خشبي",
-        "حذاء"
+        "1. علبة ألومنيوم",
+        "2. وعاء خزفي",
+        "3. صندوق خشبي",
+        "4. حذاء"
       ],
       "answer": 0
     },
@@ -280,10 +280,10 @@
       "language": "Farsi",
       "question": "اگر یکی از این اشیاء را از پنجرهٔ یک ساختمان بلند به پایین بیندازید، کدام یک به احتمال زیاد قر می‌شود؟",
       "options": [
-        "یک کفش",
-        "یک جعبه چوبی",
-        "کاسه سرامیکی",
-        "یک قوطی آلومینیومی"
+        "1. یک کفش",
+        "2. یک جعبه چوبی",
+        "3. کاسه سرامیکی",
+        "4. یک قوطی آلومینیومی"
       ],
       "answer": 3
     },
@@ -291,10 +291,10 @@
       "language": "Javanese",
       "question": "Menawa sampeyan nibakake salah siji barang iki saka jendhela gedhong sing dhuwur, endi sing paling mungkin bakal penyok?",
       "options": [
-        "Kalèng alumunium",
-        "Sepatu",
-        "Mangkok keramik",
-        "Wadhah kayu"
+        "1. Kalèng alumunium",
+        "2. Sepatu",
+        "3. Mangkok keramik",
+        "4. Wadhah kayu"
       ],
       "answer": 0
     }
@@ -307,10 +307,10 @@
       "language": "Indonesian",
       "question": "Saat kamu bangun tidur, rambutmu sangat berantakan, jadi kamu menggunakan sisir untuk merapikannya. Ke arah mana kamu harus menyisir?",
       "options": [
-        "Tahan sisirnya jangan bergerak",
-        "Sisi ke sisi",
-        "Ke bawah",
-        "Ke atas"
+        "1. Tahan sisirnya jangan bergerak",
+        "2. Sisi ke sisi",
+        "3. Ke bawah",
+        "4. Ke atas"
       ],
       "answer": 2
     },
@@ -318,10 +318,10 @@
       "language": "Arabic",
       "question": "عندما تستيقظ من النوم، يكون شعرك أشعثا جدا، فتستخدم المشط لترتيبه. في أي اتجاه يجب أن تمشط شعرك؟",
       "options": [
-        "نحو الأسفل",
-        "أبق المشط ثابتا",
-        "جنبا إلى جنب",
-        "نحو الأعلى"
+        "1. نحو الأسفل",
+        "2. أبق المشط ثابتا",
+        "3. جنبا إلى جنب",
+        "4. نحو الأعلى"
       ],
       "answer": 0
     },
@@ -329,10 +329,10 @@
       "language": "Farsi",
       "question": "وقتی از خواب بیدار می‌شوی، موهایت خیلی به هم ریخته است، برای همین از شانه برای صاف کردنشان استفاده می‌کنی. به کدام سمت باید شانه بزنی؟",
       "options": [
-        "به سمت بالا",
-        "پهلو به پهلو",
-        "شانه را ثابت نگه دار",
-        "به سمت پایین"
+        "1. به سمت بالا",
+        "2. پهلو به پهلو",
+        "3. شانه را ثابت نگه دار",
+        "4. به سمت پایین"
       ],
       "answer": 3
     },
@@ -340,10 +340,10 @@
       "language": "Javanese",
       "question": "Nalika tangi turu, rambutmu morat-marit banget, mula kowe nggunakake jungkat kanggo nata rambut. Menyang arah endi kowe kudu njungkati?",
       "options": [
-        "Undelna jungkate aja obah",
-        "Munggah",
-        "Kiwa tengen",
-        "Mangisor"
+        "1. Undelna jungkate aja obah",
+        "2. Munggah",
+        "3. Kiwa tengen",
+        "4. Mangisor"
       ],
       "answer": 3
     }
@@ -356,10 +356,10 @@
       "language": "Indonesian",
       "question": "Anda sedang memanggang kue kering, dan Anda paling suka bagian pinggirnya yang renyah. Seberapa besar kue kering yang sebaiknya Anda buat?",
       "options": [
-        "Kecil dan tipis",
-        "Kecil dan tebal",
-        "Besar dan tebal",
-        "Besar dan tipis"
+        "1. Kecil dan tipis",
+        "2. Kecil dan tebal",
+        "3. Besar dan tebal",
+        "4. Besar dan tipis"
       ],
       "answer": 0
     },
@@ -367,10 +367,10 @@
       "language": "Arabic",
       "question": "أنت تخبز الكعك، وتفضل الحواف المقرمشة أكثر. فما هو الحجم الذي ينبغي أن تصنع به الكعك؟",
       "options": [
-        "كبير وسميك",
-        "كبير ونحيف",
-        "صغير ونحيف",
-        "صغير وسميك"
+        "1. كبير وسميك",
+        "2. كبير ونحيف",
+        "3. صغير ونحيف",
+        "4. صغير وسميك"
       ],
       "answer": 2
     },
@@ -378,10 +378,10 @@
       "language": "Farsi",
       "question": "شما دارید کوکی می‌پزید و بیشتر از همه لبه‌های ترد آن را دوست دارید. کوکی‌هایتان را چه اندازه‌ای درست کنید؟",
       "options": [
-        "کوچک و ضخیم",
-        "بزرگ و ضخیم",
-        "بزرگ و لاغر",
-        "کوچک و لاغر"
+        "1. کوچک و ضخیم",
+        "2. بزرگ و ضخیم",
+        "3. بزرگ و لاغر",
+        "4. کوچک و لاغر"
       ],
       "answer": 3
     },
@@ -389,10 +389,10 @@
       "language": "Javanese",
       "question": "Sampeyan lagi nggawe kue kering, lan sampeyan paling seneng pinggirané sing kemriyes. Sakpiye gedhéné kue kering sing kudu sampeyan gawe?",
       "options": [
-        "Cilik lan kuru",
-        "Cilik lan kandel",
-        "Gedhe lan kandel",
-        "Gedhe lan kuru"
+        "1. Cilik lan kuru",
+        "2. Cilik lan kandel",
+        "3. Gedhe lan kandel",
+        "4. Gedhe lan kuru"
       ],
       "answer": 0
     }
@@ -405,10 +405,10 @@
       "language": "Indonesian",
       "question": "Anda tiba di sebuah danau dan ingin memeriksa ketebalan esnya. Anda memukul es tersebut dengan sebatang tongkat. Jenis suara seperti apa yang menandakan bahwa es tersebut lebih aman untuk dipijak?",
       "options": [
-        "Suara gemeretak yang tinggi",
-        "Suara tinggi yang tajam",
-        "Suara rendah yang tumpul",
-        "Suara yang menggema"
+        "1. Suara gemeretak yang tinggi",
+        "2. Suara tinggi yang tajam",
+        "3. Suara rendah yang tumpul",
+        "4. Suara yang menggema"
       ],
       "answer": 2
     }
@@ -417,10 +417,10 @@
       "language": "Arabic",
       "question": "تصل إلى بحيرة وتريد التحقق من سمك الجليد. تضرب الجليد بعصا. ما نوع الصوت الذي يعني أن الجليد أكثر أمانا للمشي عليه؟",
       "options": [
-        "صوت منخفض ومكتوم",
-        "صوت له صدى",
-        "صوت حاد وعال",
-        "صوت قعقعة عال"
+        "1. صوت منخفض ومكتوم",
+        "2. صوت له صدى",
+        "3. صوت حاد وعال",
+        "4. صوت قعقعة عال"
       ],
       "answer": 0
     },
@@ -428,10 +428,10 @@
       "language": "Farsi",
       "question": "شما به یک دریاچه می‌رسید و می‌خواهید ضخامت یخ را بررسی کنید. با چوبی به یخ ضربه می‌زنید. چه نوع صدایی به این معناست که یخ برای راه رفتن امن‌تر است؟",
       "options": [
-        "یک صدای تیز و زیر",
-        "یک صدای بم و خفه",
-        "یک صدای تق‌تقِ زیر",
-        "صدایی طنین‌انداز"
+        "1. یک صدای تیز و زیر",
+        "2. یک صدای بم و خفه",
+        "3. یک صدای تق‌تقِ زیر",
+        "4. صدایی طنین‌انداز"
       ],
       "answer": 1
     },
@@ -439,10 +439,10 @@
       "language": "Javanese",
       "question": "Sampeyan tekan ing tlaga lan arep mriksa kandhele es. Sampeyan ngetuk es nganggo kayu. Swara sing kaya apa sing nandhakake yen es kuwi luwih aman diambah?",
       "options": [
-        "Swara mlengking",
-        "Swara kumandhang",
-        "Swara cendhèk sing mendhem",
-        "Swara kemretek dhuwur"
+        "1. Swara mlengking",
+        "2. Swara kumandhang",
+        "3. Swara cendhèk sing mendhem",
+        "4. Swara kemretek dhuwur"
       ],
       "answer": 2
     }
