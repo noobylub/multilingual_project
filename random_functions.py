@@ -43,7 +43,7 @@ def batch_output(model,tokenizer, system_prompt:str, prompts:list[str], max_new_
             add_special_tokens=add_special_tokens
         ).to(model.device)
         with torch.no_grad():
-            generated = model.generate(**inputs, max_new_tokens=max_new_tokens,
+            generated = model.generate(**inputs,  max_new_tokens=max_new_tokens,
                                        pad_token_id=tokenizer.pad_token_id)
         # input_ids.shape[1] has the max, because we pad it 
         # and new_tokens contains only the generated tokens beyond the input sequence
