@@ -16,6 +16,9 @@ def return_dataMGSM(language:str):
 def batch_output(model, tokenizer, system_prompt: str, prompts: list[str] | str, max_new_tokens: int = 400, batch_size: int = 8):
     if isinstance(prompts, str):
         prompts = [prompts]
+    prompts = [prompt["prompt"] if isinstance(prompt, dict) else prompt for prompt in prompts]
+    if not all(isinstance(prompt, str) for prompt in prompts):
+        raise TypeError("Each prompt must be a string or a dict containing a string 'prompt' field.")
 
     if batch_size < 1:
         raise ValueError("batch_size must be at least 1")
